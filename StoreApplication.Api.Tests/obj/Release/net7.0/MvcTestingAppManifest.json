@@ -1,0 +1,6 @@
+{
+  "StoreApplication.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\src\\StoreApplication\\StoreApplication\\StoreApplication.Api",
+  "StoreApplication.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\src\\StoreApplication\\StoreApplication\\StoreApplication.Application",
+  "StoreApplication.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\src\\StoreApplication\\StoreApplication\\StoreApplication.Domain",
+  "StoreApplication.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\src\\StoreApplication\\StoreApplication\\StoreApplication.Infrastructure"
+}

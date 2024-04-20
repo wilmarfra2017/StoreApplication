@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SSwYAB+MJ263tkOiRilk4h2TizwrHIPZNE56n3WmCZjdM+Hx/nV4oMPLmU6wGw9/Zkh4kW62vQKO925B+gviZA==",
+  "success": true,
+  "projectFilePath": "C:\\src\\StoreApplication\\StoreApplication\\StoreApplication.Domain\\StoreApplication.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wilmar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Wilmar\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Wilmar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Wilmar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Wilmar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

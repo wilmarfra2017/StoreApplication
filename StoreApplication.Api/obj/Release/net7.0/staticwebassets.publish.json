@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SAHmUFOkLMPsxw7I9KrYLpUcm2shlWrb5XBP/GrMr4M=",
+  "Source": "StoreApplication.Api",
+  "BasePath": "_content/StoreApplication.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

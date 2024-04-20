@@ -1,0 +1,12 @@
+C:\src\StoreApplication\StoreApplication\StoreApplication.Domain\bin\Release\net7.0\StoreApplication.Domain.deps.json
+C:\src\StoreApplication\StoreApplication\StoreApplication.Domain\bin\Release\net7.0\StoreApplication.Domain.dll
+C:\src\StoreApplication\StoreApplication\StoreApplication.Domain\bin\Release\net7.0\StoreApplication.Domain.pdb
+C:\src\StoreApplication\StoreApplication\StoreApplication.Domain\obj\Release\net7.0\StoreApplication.Domain.csproj.AssemblyReference.cache
+C:\src\StoreApplication\StoreApplication\StoreApplication.Domain\obj\Release\net7.0\StoreApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\StoreApplication\StoreApplication\StoreApplication.Domain\obj\Release\net7.0\StoreApplication.Domain.AssemblyInfoInputs.cache
+C:\src\StoreApplication\StoreApplication\StoreApplication.Domain\obj\Release\net7.0\StoreApplication.Domain.AssemblyInfo.cs
+C:\src\StoreApplication\StoreApplication\StoreApplication.Domain\obj\Release\net7.0\StoreApplication.Domain.csproj.CoreCompileInputs.cache
+C:\src\StoreApplication\StoreApplication\StoreApplication.Domain\obj\Release\net7.0\StoreApplication.Domain.dll
+C:\src\StoreApplication\StoreApplication\StoreApplication.Domain\obj\Release\net7.0\refint\StoreApplication.Domain.dll
+C:\src\StoreApplication\StoreApplication\StoreApplication.Domain\obj\Release\net7.0\StoreApplication.Domain.pdb
+C:\src\StoreApplication\StoreApplication\StoreApplication.Domain\obj\Release\net7.0\ref\StoreApplication.Domain.dll
